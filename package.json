@@ -20,7 +20,7 @@
     "sails.js",
     "plugin"
   ],
-  "author": "Jason Sims <@jasonsims>",
+  "author": "Jason Sims (github.com/jasonsims)",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {},
