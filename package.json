@@ -1,0 +1,40 @@
+{
+  "name": "sails-forcedotcom",
+  "version": "0.10.0",
+  "description": "Force.com adapter for Sails / Waterline",
+  "main": "./lib/adapter.js",
+  "scripts": {
+    "test": "node test/integration/runner -R spec -b"
+  },
+  "repository": {
+    "type":"git",
+    "url":"git://github.com/nutanix/sails-forcedotcom.git"
+  },
+  "keywords": [
+    "forcedotcom",
+    "force.com",
+    "salesforce",
+    "adapter",
+    "sails",
+    "waterline",
+    "sails.js",
+    "plugin"
+  ],
+  "author": "Jason Sims <@jasonsims>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {
+    "waterline-adapter-tests": "~0.10.0",
+    "mocha": "*",
+    "captains-log": "~0.11.0"
+  },
+  "waterlineAdapter": {
+    "type": "forcedotcom",
+    "interfaces": [
+      "semantic",
+      "queryable"
+    ],
+    "waterlineVersion": "~0.10.0"
+  }
+}
