@@ -1,4 +1,4 @@
-# Contributing to waterline-forcedotcom
+# Contributing to sails-forcedotcom
 
 
 ## Opening Issues
