@@ -1,6 +1,6 @@
 {
   "name": "sails-forcedotcom",
-  "version": "0.10.0",
+  "version": "0.10.0-rc1",
   "description": "Force.com adapter for Sails / Waterline",
   "main": "./lib/adapter.js",
   "scripts": {
@@ -26,7 +26,9 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "q": "^1.0.0",
-    "jsforce": "^1.1.0"
+    "jsforce": "^1.1.0",
+    "waterline-errors": "~0.10.0",
+    "captains-log": "^0.11.6"
   },
   "devDependencies": {
     "waterline-adapter-tests": "~0.10.0",
