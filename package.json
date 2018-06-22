@@ -25,12 +25,12 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "q": "^1.0.0",
-    "jsforce": "^1.1.2",
-    "waterline-errors": "~0.10.0",
     "captains-log": "^0.11.6",
+    "jsforce": "^1.8.4",
     "lodash": "^2.4.1",
-    "moment": "^2.6.0"
+    "moment": "^2.6.0",
+    "q": "^1.0.0",
+    "waterline-errors": "~0.10.0"
   },
   "devDependencies": {
     "waterline-adapter-tests": "~0.10.0",
