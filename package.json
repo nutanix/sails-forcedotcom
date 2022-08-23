@@ -30,7 +30,7 @@
     "waterline-errors": "~0.10.0",
     "captains-log": "^2.0.1",
     "lodash": "^4.17.11",
-    "moment": "^2.29.4"
+    "moment": "2.29.4"
   },
   "devDependencies": {
     "waterline-adapter-tests": "~0.10.0",
