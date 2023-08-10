@@ -1,6 +1,6 @@
 {
   "name": "sails-forcedotcom",
-  "version": "0.10.0-rc1",
+  "version": "1.0.1",
   "description": "Force.com adapter for Sails / Waterline",
   "main": "./lib/adapter.js",
   "scripts": {
