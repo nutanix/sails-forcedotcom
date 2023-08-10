@@ -9,7 +9,7 @@ Waterline adapter for Force.com.
 Install from NPM.
 
 ```bash
-$ npm install sails-force --save
+$ npm install sails-forcedotcom --save
 ```
 
 ## Sails Configuration
@@ -21,7 +21,7 @@ Add the salesforce config to the `config/adapters.js` file.
 ```javascript
 module.exports.adapters = {
   salesforce: {
-    module: 'sails-force',
+    module: 'sails-forcedotcom',
     connectionParams: {
       loginUrl: 'http://test.salesforce.com'
     },
