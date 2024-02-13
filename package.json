@@ -28,14 +28,14 @@
     "q": "^1.0.0",
     "jsforce": "^1.1.2",
     "waterline-errors": "~0.10.0",
-    "captains-log": "^0.11.6",
-    "lodash": "^2.4.1",
-    "moment": "^2.6.0"
+    "captains-log": "^2.0.1",
+    "lodash": "^4.17.11",
+    "moment": "2.29.4"
   },
   "devDependencies": {
     "waterline-adapter-tests": "~0.10.0",
     "mocha": "*",
-    "captains-log": "~0.11.0"
+    "captains-log": "^2.0.1"
   },
   "waterlineAdapter": {
     "type": "forcedotcom",
